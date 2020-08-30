@@ -5,7 +5,7 @@ b. an element is deleted.<br>
 c. we check the state of queue<br>
 d. None of the options<br>
 
-Q 2. Name of pointer that is used for the end side <br>
+Q 2. Name of variable that is used for the end side <br>
 a. FRONT<br>
 b. END<br>
 <b>c. REAR<br></b>
