@@ -27,7 +27,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 3.| User will be able to: <br> Remember the concept <br> of queue and array. | Remember| Recall
 2.| User will be able to: <br> Understand the algorithm of experiment. | Understand | Explain
-3.| User will be able to: <br>Apply the concept of array <br>in implementation of queue . | Apply |Choose, Select
+3.| User will be able to: <br>Apply the concept of array <br>in implementation of queue. | Apply |Choose, Select
 
 <br/>
 <div align="right">
@@ -39,7 +39,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <a name="IS"></a>
 #### 3. Instructional Strategy
 ###### Name of Instructional Strategy  :    <u> Problem Based
-###### Assessment Method: As per handout
+###### Assessment Method: Expository and guided inquiry
 
 <u> <b>Description: </b> The instructional strategy of this experiment is "Problem based", it means that student will perform the experiment and are able to find the solution of problem statement. The problem statement is in form of input array and simulator will show that the concept of queue for that particular problem. </u>
 <br>
@@ -57,7 +57,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 :--|:--|:--|:-:
 1.|  Remember the concept <br> of queue and array. | students will able to<br> perform the basic operation in simulator. | What is basic working principle of Queue <br> A. LIFO<br><b>B. FIFO<br></b> C. LIFO and FIFO both<br> D. None of these 
 2.| Understand the algorithm of experiment. | students are able to see the working concept of algorithm<br> according to operation, which <br>has to be perform in simulator | 1 Which is not basic operation of Queue <br> A. enQueue <br> B. deQueue <br> <b> C. isNull <br></b> D. IsEmpty
-3.| Understand the algorithm of experiment. | students are able to see the working concept of algorithm<br> according to operation, which <br>has to be perform in simulator | 1 Which is not basic operation of Queue <br> A. enQueue <br> B. deQueue <br> <b> C. isNull <br></b> D. IsEmpty 
+3.| Apply the concept of array <br>in implementation of queue. | students are select the operation<br>and see the performance of that operation. | 1 What is an array <br> <b> A. Data Structure</b><br> B. Data Type <br> C.Fuction <br> D. None of these 
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
