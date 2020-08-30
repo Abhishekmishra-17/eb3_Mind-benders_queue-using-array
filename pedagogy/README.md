@@ -28,8 +28,6 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 1.| User will be able to: <br> Understand the algorithm of experiment. | Understand | Explain
 2.| User will be able to: <br> Remember the concept <br> of queue and array. | Remember| Recall
 3.| User will be able to: <br>Apply the concept of array <br>in implementation of queue . | Apply |Choose, Select
-4.| User will be able to: <br> <br> . | |
-
 
 <br/>
 <div align="right">
