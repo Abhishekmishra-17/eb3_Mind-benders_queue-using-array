@@ -1,13 +1,10 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
-Experiment 1: Name of the Experiment
+Experiment 1: Implementation of Queue using array 
 
 ### 1. Story Outline:
-
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
-
+In this experiment user will click on "run" button to run the simulator as well as algorithm. Once the global variable declared by the simulator which is shown by animation then it will ask for array size. The array size is given by user <br>
+Once the array size is inserted an array will make in animation part. User will free to choose any operation like deQueue enQueue e.t.c. whatever operation is choosing by user the working animation  of that operation will show in animation part and output will shown in console part. 
 ### 2. Story:
 
 Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
@@ -30,12 +27,9 @@ Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/
 Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
-
+In this experiment user will able to learn the array implementation of queue with their working animation, which is plus point of this simulator. After completion of this experiment user will be able to get the concept of Queue, enQueue, deQueue and IsFull, Is empty condition.
+Task assessment questions will improve the knowledge of known concepts, which included in last of the simulator session. 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
-
 
 ### 3. Flowchart 4
 <img src="flowchart/flowchart.JPG"/><br>
@@ -45,7 +39,5 @@ Tool can be used to integrate formula in Markdown <b> [here](http://latex.codeco
 <img src="mindmap/mindmap.png"/>
  Link to mindmap here : Store the mindmap in both .mm & .png extension in the  /mindmap folder and include link of only .pdf verison here
  <br>
- (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
-
 ### 5. Storyboard :
 Storyboard: <a href="storyboard/vgif.gif"> [here]</a>
