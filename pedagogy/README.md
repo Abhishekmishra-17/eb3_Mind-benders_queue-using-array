@@ -41,7 +41,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 ###### Name of Instructional Strategy  :    <u> Problem Based
 ###### Assessment Method: Expository and guided inquiry
 
-<u> <b>Description: </b> The student will perform the experiment and are able to find the solution of problem statement. The problem statement is in form of input array and simulator will show that the concept of queue for that particular problem,that's why the instructional strategy of this experiment is "Problem based".</u>
+<u> <b>Description: </b> The student will perform the experiment and are able to find the solution of problem statement. The problem statement is in form of input array and simulator will show the concept of queue for that particular problem,that's why the instructional strategy of this experiment is "Problem based".</u>
 <br>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
