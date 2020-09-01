@@ -1,1 +1,1 @@
-## Implementation of Queue using array.
+The aim of the experiment is the build the concept of queue implementation using array.
