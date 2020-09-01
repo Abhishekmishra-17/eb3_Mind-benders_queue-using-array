@@ -53,9 +53,12 @@ C.Fuction<br>
 D. None of these<br>
 
 ##### 2.5 Allow pitfalls:
+
 1.While running of one operation if user will click on "stop" button then all operation and then he will click on "run" button, then all operation will start from initial stage.<br>
 2. While proper answer is not given by user pop-up will shown, but when the answer is correct then pop is remove automatically.On wrong answer the color of select button become red.
+
 ##### 2.6 Conclusion:
+
 In this experiment user will able to learn the array implementation of queue with their working animation, which is plus point of this simulator. After completion of this experiment user will be able to get the concept of Queue, enQueue, deQueue and IsFull, Is empty condition. Task assessment questions will improve the knowledge of known concepts, which included in last of the simulator session. 
 
 ##### 2.7 Equations/formulas: NA
