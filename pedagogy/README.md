@@ -27,7 +27,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 3.| User will be able to: <br> Describe the concept <br> of queue and array. | Remember| Describe
 2.| User will be able to: <br> Describe the algorithm of experiment. | Understand | Describe
-3.| User will be able to: <br>Experiment with the concept of array <br>in implementation of queue. | Apply | Experiment
+3.| User will be able to: <br>Experiment with the concept of array <br>in implementation of queue. | Apply | Experiment with
 
 <br/>
 <div align="right">
