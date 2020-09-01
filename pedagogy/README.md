@@ -56,8 +56,8 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.|  Remember the concept <br> of queue and array. | students will able to<br> perform the basic operation in simulator. | What is basic working principle of Queue <br> A. LIFO<br><b>B. FIFO<br></b> C. LIFO and FIFO both<br> D. None of these 
-2.| Understand the algorithm of experiment. | students are able to see the working concept of algorithm<br> according to operation, which <br>has to be perform in simulator | 1 Which is not basic operation of Queue <br> A. enQueue <br> B. deQueue <br> <b> C. isNull <br></b> D. IsEmpty
-3.| Apply the concept of array <br>in implementation of queue. | students are select the operation<br>and see the performance of that operation. | 1 What is an array <br> <b> A. Data Structure</b><br> B. Data Type <br> C.Fuction <br> D. None of these 
+2.| Understand the algorithm of experiment. | students are able to see the working concept of algorithm<br> according to operation, which <br>has to be perform in simulator | Which is not basic operation of Queue <br> A. enQueue <br> B. deQueue <br> <b> C. isNull <br></b> D. IsEmpty
+3.| Apply the concept of array <br>in implementation of queue. | students are select the operation<br>and see the performance of that operation. | What is an array <br> <b> A. Data Structure</b><br> B. Data Type <br> C.Fuction <br> D. None of these 
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
