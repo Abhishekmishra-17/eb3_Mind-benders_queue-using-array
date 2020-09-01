@@ -30,7 +30,7 @@ AKTU
 
 #### Mentor Details
  
-<b>Mentored by | <b> Dr Ramesh Sharma
+<b>Mentored by | <b> Dr. Ramesh Sharma
 :--|:--|
 <b> Institute | <b> Feroze Gandhi Institute of Engineering and Technology
 <b> Email id|     <b> sharmarameshfgiet@gmail.com 
