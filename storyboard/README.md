@@ -3,8 +3,7 @@
 Experiment 1: Implementation of Queue using array 
 
 ### 1. Story Outline:
-In this experiment user will click on "run" button to run the simulator as well as algorithm. Once the global variable declared by the simulator which is shown by animation then it will ask for array size. The array size is given by user.<br>
-Once the array size is inserted an array will make in animation part. User will free to choose any operation like deQueue enQueue e.t.c. whatever operation is choosing by user the working animation  of that operation will show in animation part and output will shown in console part. 
+The experiment "Implementation of Queue using array" is implementation of concept of queue. In this experiment user will be able to understand the working concept of queue with the help of array. In this experiment user will see the step by step animation which is real time animation, by which he/she can visualize the working concepts of queue with the help of simulator. After performing this experiment user will able to explain the concepts (algorithm and working method) of Queue and also complexity and linked list concept.
 ### 2. Story:
 The experiment "Implementation of queue using array" is array visualization of queue. For this purpose we should visualize the concept of working operations. There are five operations in operation tab that is Isfull,Isempty, deQueue, enQueue and diplay. According to that operation which has to be selected user will able to work on that operation and visualize the conceptwith the help of real time animation shown in simulator. 
 For checking the undertanding knowlede of student we add some assesment task after completion of one operation. 
