@@ -11,8 +11,8 @@ A queue data structure can be implemented using one dimensional array. The queue
      Step 4: Read variable array_size<br>
      Step 5: Declare global array queue of size array_size<br>
      Step 6: Initialize variable<br>
-                      front <- -1<br>
-                      rear <- -1<br>
+                      &nbsp;&nbsp;&nbsp;front <- -1<br>
+                      &nbsp;&nbsp;&nbsp;rear <- -1<br>
      Step 7: End<br>
      
 <b>enQueue(value) :</b> Inserting value into the queue<br>
@@ -37,7 +37,7 @@ In a queue data structure, deQueue() is a function used to delete an element fro
      Step 2: If front equals -1<br>
                       2.1:  Display Queue is empty<br>
                    Else<br>
-                      2.2: queue[front] <- free<br>
+                      2.2: queue[front] <- free<br>&nbsp;&nbsp;
                       2.3: Declare variable i<br>
                       2.4: Initialize variable<br>
                                   i <- 0<br>
