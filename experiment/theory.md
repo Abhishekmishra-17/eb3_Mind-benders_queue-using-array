@@ -5,21 +5,23 @@ A queue data structure can be implemented using one dimensional array. The queue
 **Queue data structure using array can be implemented as follows...**
 
 **Before we implement actual operations, first follow the below steps to create an empty queue.**
+
      Step 1: Start<br>
      Step 2: Declare global variable array_size, front and rear<br>
      Step 3: Display enter array size<br>
      Step 4: Read variable array_size<br>
      Step 5: Declare global array queue of size array_size<br>
      Step 6: Initialize variable<br>
-                      &nbsp;&nbsp;&nbsp;front <- -1<br>
-                      &nbsp;&nbsp;&nbsp;rear <- -1<br>
+                      front <- -1<br>
+                      rear <- -1<br>
      Step 7: End<br>
      
 <b>enQueue(value) :</b> Inserting value into the queue<br>
 In a queue data structure, enQueue() is a function used to insert a new element into the queue. In a queue, the new element is always inserted at rear position. The enQueue() function takes one integer value as a parameter and inserts that value into the queue. We can use the following steps to insert an element into the queue...<br>
- Step 1: Start<br>
+
+     Step 1: Start<br>
      Step 2: If rear equals array_size - 1<br>
-                      Display Queue is full<br>
+                      &nbsp;&nbsp;Display Queue is full<br>
                    Else<br>
                       Declare variable data<br>
                       Display enter value<br>
@@ -33,6 +35,7 @@ In a queue data structure, enQueue() is a function used to insert a new element 
      
 <b>deQueue() :</b> Deleting a value from the Queue<br>
 In a queue data structure, deQueue() is a function used to delete an element from the queue. In a queue, the element is always deleted from front position. The deQueue() function does not take any value as parameter. We can use the following steps to delete an element from the queue...<br>
+
      Step 1: Start<br>
      Step 2: If front equals -1<br>
                       2.1:  Display Queue is empty<br>
@@ -56,7 +59,8 @@ In a queue data structure, deQueue() is a function used to delete an element fro
      
 <b>display() :</b> Displays the elements of a Queue<br>
 We can use the following steps to display the elements of a queue...<br>
- Step 1: Start<br>
+
+     Step 1: Start<br>
      Step 2: If front not equals -1<br>
                       2.1: Declare variable i<br>
                              Initialize variable<br>
@@ -70,7 +74,8 @@ We can use the following steps to display the elements of a queue...<br>
      Step 3: End<br>
      
 <b>isEmpty() :</b>To Check either Queue is empty or not<br>
-  Step 1: Start<br>
+
+     Step 1: Start<br>
      Step 2: If front equals -1<br>
                       Display Queue is empty<br>
                    Else<br>
@@ -78,7 +83,8 @@ We can use the following steps to display the elements of a queue...<br>
      Step 3: End<br>
      
 <b>isFull() :</b>To Check either Queue is full or not<br>
-  Step 1: Start<br>
+     
+     Step 1: Start<br>
      Step 2: If rear equals size - 1<br>
                       Display Queue is full<br>
                    Else<br>
