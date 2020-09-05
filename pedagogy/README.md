@@ -25,7 +25,7 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-3.| User will be able to: <br> Describe the concept <br> of queue and array. | Remember| Describe
+3.| User will be able to: <br> Recall the concept <br> of queue and array. | Remember| Recall
 2.| User will be able to: <br> Describe the algorithm of experiment. | Understand | Describe
 3.| User will be able to: <br>Experiment with the concept of array <br>in implementation of queue. | Apply | Experiment with
 
@@ -55,7 +55,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| Decribe  the concept <br> of queue and array. | students will able to<br> perform the basic operation in simulator. |Queustion:- A Queue is a? <br><b>A. FIFO list<br></b>B. LIFO list<br>C. Ordered array<br> D. Linear tree 
+1.| Recall  the concept <br> of queue and array. | students will able to<br> perform the basic operation in simulator. |Queustion:- A Queue is a? <br><b>A. FIFO list<br></b>B. LIFO list<br>C. Ordered array<br> D. Linear tree 
 2.| Decribe the algorithm of experiment. | students are able to see the working concept of algorithm<br> according to operation, which <br>has to be perform in simulator |Question:- What does the enQueue operation will do<br><b>A. Insert new element </b><br> B. Delete element <br>C. Both Insert and delete <br> D. Check if Queue is full
 3.| Experiment with the concept of array <br>in implementation of queue. | students are select the operation<br>and see the performance of that operation. |Question1:-What is Queue empty condition?<br> A. Rear equal to Front<br><b>B. Front equal to -1 </b><br> C. Front equal to Array size-1 <br> D. Rear equal to Array size-1 <br>Question2:-How to check if Queue is full?<br>A.Rear equal to Array size<br>B.Rear equal to -1<br>C.Front equal to Rear<br><b>D.Rear equal to Array size-1</b>
 <div align="right">
