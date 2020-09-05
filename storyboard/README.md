@@ -39,13 +39,13 @@ B. LIFO list<br>
 C. Ordered array<br>
 D. Linear tree<br>
 <b>Question2:</b>What is drawback of Linear Queue implementation using array?<br>
-A.We can not usede full space available<br>
+A. We can not usede full space available<br>
 B. Time complexity O(n) for deQueue operation<br>
-<b>C.Both A and B</b><br>
-D.None of above<br>
+<b>C. Both A and B</b><br>
+D. None of above<br>
 <b>2.Learning Objective: Understand</b><br>
 <b>Question:</b>What does the enQueue operation will do?<br>
-<b>A. Insert new element/<b><br>
+<b>A. Insert new element</b><br>
 B. Delete element<br>
 C. Both Insert and delete<br>
 D. Check if Queue is full<br>
