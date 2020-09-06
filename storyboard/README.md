@@ -33,28 +33,35 @@ The main objectives of user is that the user will undertand the working concept 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
 <b>1.Learning Objective: Remember</b><br>
+
 <b>Question1:</b>A Queue is a?<br>
 <b>A. FIFO list</b><br>
 B. LIFO list<br>
 C. Ordered array<br>
 D. Linear tree<br>
+
 <b>Question2:</b>What is drawback of Linear Queue implementation using array?<br>
 A. We can not usede full space available<br>
 B. Time complexity O(n) for deQueue operation<br>
 <b>C. Both A and B</b><br>
 D. None of above<br>
+
 <b>2.Learning Objective: Understand</b><br>
+
 <b>Question:</b>What does the enQueue operation will do?<br>
 <b>A. Insert new element</b><br>
 B. Delete element<br>
 C. Both Insert and delete<br>
 D. Check if Queue is full<br>
+
 <b>3.Learning Objective: Apply</b><br>
+
 <b>Question1:</b>What is Queue empty condition?<br>
 A. Rear equal to Front<br>
 <b>B. Front equal to -1</b><br>
 C. Front equal to Array size-1<br>
 D. Rear equal to Array size-1<br>
+
 <b>Question2:</b>How to check if Queue is full?<br>
 A.Rear equal to Array size<br>
 B.Rear equal to -1<br>
