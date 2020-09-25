@@ -1167,8 +1167,8 @@ function main(){
 window.addEventListener('load', main);
 
 function resolution(){
-    var width = screen.width;
-    var height = screen.height;
+    var width = window.innerWidth;
+    var height = window.innerHeight;
     var wRation = 1366;
     var hRatio = 625;
     
@@ -1180,8 +1180,11 @@ function resolution(){
         var calcMargin = (wRation -  elmBody.offsetWidth) / 2;
         elmMain.style.transform = 'scale(' + calc + ')';
         elmMain.style.marginLeft = '-' + calcMargin + 'px';
+    }else{
+         elmMain.style.transform = 'scale(1)';
+         elmMain.style.marginLeft = (width - 1366) / 2 + 'px';
     }
-    
+   
 }
 resolution();
 window.onresize = resolution;
