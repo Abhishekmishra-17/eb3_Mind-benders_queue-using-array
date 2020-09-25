@@ -1,2 +1,1 @@
-### Experiment Name:
-Implementation of Queue using array.
+## Implementation of Queue using array.
