@@ -18,7 +18,7 @@ c. A and B both<br>
 d. None of these<br>
 
 Q 4. What is the size range of array in simulator?<br>
-<b>a. [4,9]</b><br>
+<b>a. (4,9]</b><br>
 b. (6,9] <br>
 c. (4,10)<br>
 d. [5,9)<br>
