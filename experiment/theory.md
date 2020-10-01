@@ -90,4 +90,4 @@ We can use the following steps to display the elements of a queue...<br>
                    Else
                       Display Queue is not full
      Step 3: End
-**Note that (-1) refers the free pointer value**
+**Note that (-1) refers the empty value**
