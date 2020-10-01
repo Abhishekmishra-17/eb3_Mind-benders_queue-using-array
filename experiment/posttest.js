@@ -125,7 +125,7 @@
      {
       question: "What is the size range of array in simulator?",
       answers: {
-        a: "[4,9]",
+        a: "(4,9]",
         b: "(6,9]",
         c: "(4,10)",
         d: "[5,9)"
