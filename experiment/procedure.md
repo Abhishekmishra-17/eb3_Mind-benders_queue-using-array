@@ -11,13 +11,13 @@
 
 **1. enqueue()** <br>
 1. Check if the queue is full.<br>
-2. If the queue is full, then print "Queue overflow" and exit.<br>
+2. If the queue is full, then print "Queue is full" and exit.<br>
 3. Else increment REAR by 1.<br>
 4. Assign QUEUE [ REAR ] = ELEMENT.<br>
 
 **2. dequeue()**<br>
 1. Check if the queue is empty.<br>
-2. If the queue is empty, the print "Queue underflow".<br>
+2. If the queue is empty, the print "Queue is empty".<br>
 3. Copy the element at the front of the queue to some temporary variable, TEMP = QUEUE[ FRONT ].<br>
 4. Increment FRONT by 1.<br>
-5. Print temp and delete it.<br>
+5. Delete the TEMP and release the memory space.<br>
